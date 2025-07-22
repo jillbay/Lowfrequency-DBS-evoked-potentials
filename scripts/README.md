@@ -1,3 +1,4 @@
+# Scripts
 template_subtraction.m: EEG rereferencing, trial selection, peak detection, DBS artifact reduction (template subtraction + interpolation), visualization
 mesh_simnibs: head model creation using SimNIBS, alignment of electrodes
 tm_calculation_simnibs: compute the transformation matrix needed for the inverse modeling
